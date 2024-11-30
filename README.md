@@ -42,9 +42,7 @@ The result is a website that doesn’t just display content—it makes a stateme
 
 ## Preview of the Website
 
-Here's how the website looks in action:
-
-![Website Preview](./Preview.jpg)
+[Here's how the website looks in action](https://nike-brutalist-clone.netlify.app/)
 
 ---
 
