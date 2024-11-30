@@ -31,7 +31,7 @@ export default function ProductShowcase() {
     <section className="py-12 sm:py-20 px-4 bg-white border-y-8 border-black">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-3xl sm:text-4xl font-bold mb-8 sm:mb-12 font-mono">
-          FEATURED_TECHNOLOGY.exe
+          FEATURED_TECH.exe
         </h2>
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 sm:gap-12">
