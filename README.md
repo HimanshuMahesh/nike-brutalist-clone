@@ -1,6 +1,6 @@
 # Nike Clone - Brutalist Design
 
-![Preview of Nike Clone](Preview.jpeg)
+![Preview of Nike Clone](Preview.jpg)
 
 Welcome to my **Nike Clone**, a bold, unapologetic reinterpretation of the Nike website using a **brutalist design philosophy**. This project merges **cutting-edge frontend technologies** with a design style that prioritizes raw, striking visual impact over conventional minimalism. 
 
@@ -44,7 +44,7 @@ The result is a website that doesn’t just display content—it makes a stateme
 
 Here's how the website looks in action:
 
-![Website Preview](./Preview.jpeg)
+![Website Preview](./Preview.jpg)
 
 ---
 
